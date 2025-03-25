@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I am currently working as a Software Designer at Dervişoğlu İnşaat, developing innovative solutions in construction technology.<br>
-👯 I'm looking to collaborate on open-source projects related to web development, IoT, and Python applications.<br>
+🔭 I am currently working as a Software Designer at Dervişoğlu İnşaat, as a Software Developer. Big news coming soon..<br>
+👯 I'm not looking to collaborate any projects right now.<br>
 🤝 I'm seeking help with advanced Node.js backend development and scaling microservices architectures.<br>
 🌱 I'm currently learning Node.js, deepening my skills in backend development and cloud technologies.<br>
-💬 Ask me about web development, Python programming, design tools, or career transitions in tech.<br>
+💬 Ask me about web development, design tools, or career transitions in tech.<br>
 ⚡ Fun fact: I blend technical skills with creative design, using my Adobe creative tools to bring unique perspectives to software development!
 
 ## 🌐 Socials:
